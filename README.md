@@ -1,3 +1,3 @@
 
 #readme
-create a new branch is fast
+create a new branch is fast & simple
